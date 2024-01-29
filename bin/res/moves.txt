@@ -1,0 +1,100 @@
+Slash
+Stomp
+Fireball
+Charge
+Teleport
+Poison Cloud
+Ice Beam
+Thunder Strike
+Tail Whip
+Acid Spit
+Summon Minions
+Ground Pound
+Laser Beam
+Web Shot
+Roar
+Dark Energy Blast
+Shadow Step
+Mind Control
+Spinning Blades
+Earthquake
+Sonic Wave
+Tentacle Strike
+Gravity Well
+Energy Drain
+Necrotic Touch
+Sandstorm
+Tail Slam
+Curse of Weakness
+Death Ray
+Flame Breath
+Ice Shard Volley
+Petrifying Gaze
+Wind Cutter
+Mind Blast
+Poisonous Bite
+Lightning Nova
+Bone Throw
+Plasma Wave
+Energy Explosion
+Chain Lightning
+Acid Rain
+Spin Attack
+Toxic Gas
+Psychic Scream
+Death Grip
+Soul Drain
+Flame Burst
+Shuriken Barrage
+Energy Vortex
+Dark Wave
+Vampiric Embrace
+Hammer Smash
+Phase Shift
+Venom Spit
+Earth Shock
+Mind Flay
+Power Surge
+Frost Nova
+Shadow Bolt
+Poison Fang
+Sonic Boom
+Charge Up
+Lava Burst
+Bone Crush
+Void Rift
+Wing Buffet
+Plasma Ball
+Psychic Wave
+Cyclone Strike
+Death Blossom
+Inferno Blast
+Scorpion Sting
+Mind Eater
+Ice Cage
+Telekinetic Throw
+Molten Breath
+Energy Shield
+Ghostly Grasp
+Blizzard
+Acid Rain
+Cursed Touch
+Plasma Wave
+Bone Spear
+Razor Wind
+Poison Pool
+Dark Pulse
+Tail Swipe
+Energy Surge
+Sonic Pulse
+Venomous Cloud
+Shadow Kick
+Thunderclap
+Psychic Blast
+Flame Slash
+Death Ray
+Ice Spike
+Lethal Grasp
+Soul Burn
+Energy Beam
+Necromantic Wave

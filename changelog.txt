@@ -1,0 +1,10 @@
+@Antonio Pinna
+
+v1.0.0
+Base logic implementation
+
+v1.1.0
+Partial factorization, debugging and modularization
+
+v1.1.1
+Partial introduction of new features
