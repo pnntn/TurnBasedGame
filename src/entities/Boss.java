@@ -51,9 +51,9 @@ public class Boss extends Enemy {
             } else {
                 System.out.println("Boss's attack ineffective, you take 0 damage\n");
             }
-
             setHitCounter(0);
-        } else {
+        } 
+    	else {
             this.hitCounter++;
             super.attackHero(hero, moveList);
         }

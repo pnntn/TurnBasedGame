@@ -23,10 +23,9 @@ public class HealingPotion extends GenericPowerUp {
 
         if (random >= 0 && random < 30) {
             name = "large potion";
-        } else if (random >= 30 && random <= 100) {
+        } else if (random >= 30 && random < 100) {
             name = "small potion";
         }
-
         super.setName(name);
     }
 

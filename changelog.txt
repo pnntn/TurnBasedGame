@@ -8,3 +8,7 @@ Partial factorization, debugging and modularization
 
 v1.1.1
 Partial introduction of new features
+
+v1.2.0
+Factorization, debugging, and modularization from v1.1.0 completed
+Introduction of new features from v1.1.1 completed

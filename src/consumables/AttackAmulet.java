@@ -24,10 +24,9 @@ public class AttackAmulet extends GenericPowerUp {
             name = "Common Strength Amulet";
         } else if (random >= 50 && random < 80) {
             name = "Rare Strength Amulet";
-        } else if (random >= 80 && random <= 100) {
+        } else if (random >= 80 && random < 100) {
             name = "Epic Strength Amulet";
         }
-
         super.setName(name);
     }
 
