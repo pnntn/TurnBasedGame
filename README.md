@@ -1,4 +1,4 @@
-# turnBasedGameShadowAbyss
+# TurnBasedGameShadowAbyss
 
 The game has a square grid map and requires there to be a Hero (the player) and enemies of different categories. 
 Each character (including the hero) has attack functions and can take damage. 
